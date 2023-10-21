@@ -16,4 +16,8 @@ entities, 18,139 entity aspects, and 645,383 aspect-related images.
 
 ## Downloading AspectMMKG
 
+<<<<<<< HEAD
 https://drive.google.com/file/d/1xakCsNUDc5N4A7Ph197p9ZNcyGvGMxpN/view?usp=sharing
+=======
+Coming Soon
+>>>>>>> bd44cbe6cccd707b15338b015a8beb2a9c9ade32
